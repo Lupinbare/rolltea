@@ -1,5 +1,5 @@
 {
-  "name": "rollertea",
+  "name": "rolldex",
   "version": "1.1.2",
   "private": false,
   "scripts": {
@@ -24,14 +24,14 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   },
-  "description": "roller tea",
+  "description": "rolltea dex project",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Lupinbare/rolltea"
   },
   "keywords": [
-    "tea"
+    "dex"
   ],
   "author": "0xlupin",
   "license": "ISC",
